@@ -1,2 +1,2 @@
-# amazonclone
-project
+#PROJECT
+AMAZON CLONE
